@@ -44,7 +44,6 @@
 
 To check your PowerShell version, run this in a terminal:
 
-```powershell
 $PSVersionTable.PSVersion
 
 🎨 Customize the Shortcut Icon
