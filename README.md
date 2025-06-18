@@ -43,8 +43,9 @@
 - PowerShell 5.1 or later (pre-installed on most systems)
 
 To check your PowerShell version, run this in a terminal:
-
 $PSVersionTable.PSVersion
+
+---
 
 🎨 Customize the Shortcut Icon
 Right-click the shortcut you created.
@@ -53,6 +54,8 @@ Browse to any .ico file to give your shortcut a unique look.
 You can create your own icons or download them from sites like:
 https://iconarchive.com
 https://icons8.com
+
+---
 
 📜 License
 This tool is released under the MIT License. You are free to use, modify, and redistribute it.
