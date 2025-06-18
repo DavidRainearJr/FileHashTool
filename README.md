@@ -52,7 +52,7 @@ Right-click the shortcut you created.
 Select Properties → click Change Icon...
 Browse to any .ico file to give your shortcut a unique look.
 You can create your own icons or download them from sites like:
-https://iconarchive.com
+https://iconarchive.com &
 https://icons8.com
 
 ---
